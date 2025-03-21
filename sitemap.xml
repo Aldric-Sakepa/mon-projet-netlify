@@ -1,0 +1,31 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://saka1201.netlify.app/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    </url>
+
+    <url>
+        <loc>https://saka1201.netlify.app/#combat</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://saka1201.netlify.app/#quete</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://saka1201.netlify.app/#faq</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+</urlset>
